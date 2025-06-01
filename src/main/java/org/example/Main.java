@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.model.Apple;
+import org.example.model.Apple; //яблоки
 import org.example.model.Food;
 import org.example.model.Meat;
 import org.example.model.constants.Colour;
